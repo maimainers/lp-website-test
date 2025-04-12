@@ -1684,6 +1684,10 @@ footer .copyright p {
     footer .footer-side {
         width: 100%;
     }
+    footer .footer-logo-ctn {
+        width: 100%;
+        max-width: 300px;
+    }
     footer .footer-title {
         margin-bottom: 45px;
     }
