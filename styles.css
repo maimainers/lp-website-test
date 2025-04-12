@@ -1459,7 +1459,7 @@ footer .copyright p {
         padding: 60px 30px !important;
     }
     header {
-        width: calc(100vw - 15px);
+        width: calc(100vw - 15px) !important;
     }
     
     /* AGENT BIO */
@@ -1590,6 +1590,7 @@ footer .copyright p {
     /* HOME GALLERY */
     section.home-gallery {
         padding: 75px 30px 135px 30px !important;
+        overflow: hidden;
     }
     section.home-gallery .section-header-ctn h2 {
         padding-bottom: 15px;
@@ -1604,7 +1605,7 @@ footer .copyright p {
         left: auto;
     }
     section.home-gallery .gallery-ctn {
-        /* overflow: visible; */
+        overflow: visible;
     }
     section.home-gallery .gallery-ctn .swiper-slide .home-info-ctn {
         opacity: .9;
