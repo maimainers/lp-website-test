@@ -1459,7 +1459,7 @@ footer .copyright p {
         padding: 60px 30px !important;
     }
     header {
-        width: calc(100vw - 15px) !important;
+        width: 100vw !important;
     }
     
     /* AGENT BIO */
