@@ -1458,6 +1458,9 @@ footer .copyright p {
     section {
         padding: 60px 30px !important;
     }
+    header {
+        width: calc(100vw - 15px);
+    }
     
     /* AGENT BIO */
     section.agent-bio {
